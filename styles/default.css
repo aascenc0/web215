@@ -15,6 +15,7 @@ header {
 }
 
 header div {
+    border: solid red 5px;
     display: flex;
     justify-content: center;
     align-items: center;
