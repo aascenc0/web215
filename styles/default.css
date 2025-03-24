@@ -133,6 +133,6 @@ footer {
 }
 
 footer p {
-    border: solid, red, 2px;
+    border-box: solid, red, 2px;
     margin: 3px;
 }
