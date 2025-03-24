@@ -132,8 +132,9 @@ footer {
     margin-right: auto;
 }
 
-footer a {
+footer a:visited {
     color: #7A00A1;
+    
 }
 
 footer p {
