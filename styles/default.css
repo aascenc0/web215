@@ -132,6 +132,10 @@ footer {
     margin-right: auto;
 }
 
+footer a {
+    color: #7A00A1;
+}
+
 footer p {
     margin: 10px;
 }
