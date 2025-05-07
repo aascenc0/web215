@@ -50,8 +50,8 @@ main {
     font-size: 16px; 
     display: flex;
     flex-direction: column;
-    background: radial-gradient(circle, transparent 20%, #e6deca 20%, #e6deca 80%, transparent 80%, transparent), radial-gradient(circle, transparent 20%, #e6deca 20%, #e6deca 80%, transparent 80%, transparent) 25px 25px, linear-gradient(#d7cda7 2px, transparent 2px) 0 -1px, linear-gradient(90deg, #d7cda7 2px, #e6deca 2px) -1px 0;
-    background-size: 50px 50px, 50px 50px, 25px 25px, 25px 25px;
+    background: radial-gradient(circle, transparent 20%, #f0e2f3 20%, #f0e2f3 80%, transparent 80%, transparent), radial-gradient(circle, transparent 20%, #f0e2f3 20%, #f0e2f3 80%, transparent 80%, transparent) 52.5px 52.5px, linear-gradient(#fff5ea 4.2px, transparent 4.2px) 0 -2.1px, linear-gradient(90deg, #fff5ea 4.2px, #f0e2f3 4.2px) -2.1px 0;
+    background-size: 105px 105px, 105px 105px, 52.5px 52.5px, 52.5px 52.5px;
 }
 
 main a {
